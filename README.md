@@ -17,6 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://twitter.com/shubhkulshrest2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhkulshrest2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-kulshrestha-b80ab6263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kulshrestha-b80ab6263" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubh_kulshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubh_kulshrestha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
