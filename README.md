@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [My website](https://shubh.rf.gd)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** and **React**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
