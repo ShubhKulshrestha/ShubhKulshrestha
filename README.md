@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript** and **React**
 
-- 💬 Ask me about **HTML, CSS, Javascript React**
+- 💬 Ask me about **HTML, CSS, Javascript, React**
 
 
 
